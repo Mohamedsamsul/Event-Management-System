@@ -1,0 +1,20 @@
+{
+  "EventCreation": {
+    "description": "Auto imported from components/EventCreation.vue"
+  },
+  "EventListing": {
+    "description": "Auto imported from components/EventListing.vue"
+  },
+  "Notify": {
+    "description": "Auto imported from components/notify.vue"
+  },
+  "Userlogin": {
+    "description": "Auto imported from components/userlogin.vue"
+  },
+  "UserProfile": {
+    "description": "Auto imported from components/UserProfile.vue"
+  },
+  "Userregister": {
+    "description": "Auto imported from components/userregister.vue"
+  }
+}

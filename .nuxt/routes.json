@@ -1,0 +1,51 @@
+[
+  {
+    "name": "eventcreate",
+    "path": "/eventcreate",
+    "component": "C:\\\\Users\\\\samsu\\\\Downloads\\\\App\\\\App\\\\Event-Management-System\\\\pages\\\\eventcreate.vue",
+    "chunkName": "pages/eventcreate",
+    "_name": "_87bcf0aa"
+  },
+  {
+    "name": "eventlist",
+    "path": "/eventlist",
+    "component": "C:\\\\Users\\\\samsu\\\\Downloads\\\\App\\\\App\\\\Event-Management-System\\\\pages\\\\eventlist.vue",
+    "chunkName": "pages/eventlist",
+    "_name": "_ef14dfe6"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\samsu\\\\Downloads\\\\App\\\\App\\\\Event-Management-System\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_68745f3e"
+  },
+  {
+    "name": "notification",
+    "path": "/notification",
+    "component": "C:\\\\Users\\\\samsu\\\\Downloads\\\\App\\\\App\\\\Event-Management-System\\\\pages\\\\notification.vue",
+    "chunkName": "pages/notification",
+    "_name": "_6da594b4"
+  },
+  {
+    "name": "userprofilepage",
+    "path": "/userprofilepage",
+    "component": "C:\\\\Users\\\\samsu\\\\Downloads\\\\App\\\\App\\\\Event-Management-System\\\\pages\\\\userprofilepage.vue",
+    "chunkName": "pages/userprofilepage",
+    "_name": "_84ce06bc"
+  },
+  {
+    "name": "usersignup",
+    "path": "/usersignup",
+    "component": "C:\\\\Users\\\\samsu\\\\Downloads\\\\App\\\\App\\\\Event-Management-System\\\\pages\\\\usersignup.vue",
+    "chunkName": "pages/usersignup",
+    "_name": "_affe93c4"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\samsu\\\\Downloads\\\\App\\\\App\\\\Event-Management-System\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_c26687b2"
+  }
+]
